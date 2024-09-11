@@ -3,3 +3,5 @@ Password Generator Website which allows the user to pick topics; it then scrapes
 
 This project uses PHP, HTML, CSS (just a bit of bootstrap), and SQL, and was run on an Apache server during development.
 This was made Nov 2023- Apr 2024 as a Grade 12 project for fun. Very surprised that I finished. :)
+
+Project demo: https://www.awesomescreenshot.com/video/27961304?key=464c8b845813e494a47baf57b9fc9b4b
