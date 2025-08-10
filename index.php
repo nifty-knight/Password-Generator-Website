@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+i<!DOCTYPE html>
 <html>
 <head>
 	<title style = "text-align: center">Password Generator</title>
@@ -83,4 +83,5 @@
 			?>
 		</tbody>
 </body>
+
 </html>
